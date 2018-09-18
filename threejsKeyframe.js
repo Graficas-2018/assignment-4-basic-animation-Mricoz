@@ -187,8 +187,6 @@ function playAnimations()
                                 { x : 3, y:0, z: 4 },
                                 { x : 7.5, y:0, z: 0 },
                                 { x : 4, y:0, z: -6 },
-                                { x : 0, y:0, z: -2 },
-                                { x : -7.5, y:0, z: 0 }
                                 ],
                         target:group.position
                     }
